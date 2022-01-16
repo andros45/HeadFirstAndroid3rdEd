@@ -1,0 +1,12 @@
+Kotlin och XML
+
+Layouts
+	Hur det ser ut
+	Skapas vanligtvis i XML
+	
+Activities
+	Vad den gör
+	
+Android Studio
+	IDE för utveckling av appar till Android
+	https://developer.android.com/studio
